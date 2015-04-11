@@ -2,25 +2,25 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Bulbwheatie\Documents\red-cup\ParseStarterProject\libs\ParseCrashReporting-1.9.1.jar"
-        jumboMode="false"
-        revision="22.0.0"
-        sha1="2bfbcce5ae61bdd10676df8e89710693c1256024">
-        <dex dex="C:\Users\Bulbwheatie\Documents\red-cup\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.9.1-50899c571a82a9ee52a2ec17ddc772f8ba5b2109.jar" />
-    </item>
-    <item
-        jar="C:\Users\Bulbwheatie\Documents\red-cup\ParseStarterProject\libs\Parse-1.9.1.jar"
-        jumboMode="false"
-        revision="22.0.0"
-        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
-        <dex dex="C:\Users\Bulbwheatie\Documents\red-cup\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.9.1-32d4b17ec0beed7ff2a673355b9d76e49a178564.jar" />
-    </item>
-    <item
-        jar="C:\Users\Bulbwheatie\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jar="/Users/jakegaba/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
         jumboMode="false"
         revision="22.0.0"
         sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
-        <dex dex="C:\Users\Bulbwheatie\Documents\red-cup\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-aa42a464974bcc1e84b5e104d3f76b5f07d29547.jar" />
+        <dex dex="/Users/jakegaba/Documents/red-cup/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-4e963c39dce48651ccaa3a3ba05852ef0724beb9.jar" />
+    </item>
+    <item
+        jar="/Users/jakegaba/Documents/red-cup/ParseStarterProject/libs/Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="/Users/jakegaba/Documents/red-cup/ParseStarterProject/build/intermediates/pre-dexed/debug/Parse-1.9.1-c15d316cd482e856489894506aabfe5eb34fa25d.jar" />
+    </item>
+    <item
+        jar="/Users/jakegaba/Documents/red-cup/ParseStarterProject/libs/ParseCrashReporting-1.9.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="2bfbcce5ae61bdd10676df8e89710693c1256024">
+        <dex dex="/Users/jakegaba/Documents/red-cup/ParseStarterProject/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.9.1-a5c8ee95e6a8f410cba2fcdb370b8aa17dfae417.jar" />
     </item>
 
 </items>

@@ -1,4 +1,4 @@
-C:\Users\Bulbwheatie\Documents\red-cup\ParseStarterProject\build\intermediates\classes\debug
-C:\Users\Bulbwheatie\Documents\red-cup\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-aa42a464974bcc1e84b5e104d3f76b5f07d29547.jar
-C:\Users\Bulbwheatie\Documents\red-cup\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.9.1-50899c571a82a9ee52a2ec17ddc772f8ba5b2109.jar
-C:\Users\Bulbwheatie\Documents\red-cup\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.9.1-32d4b17ec0beed7ff2a673355b9d76e49a178564.jar
+/Users/jakegaba/Documents/red-cup/ParseStarterProject/build/intermediates/classes/debug
+/Users/jakegaba/Documents/red-cup/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-4e963c39dce48651ccaa3a3ba05852ef0724beb9.jar
+/Users/jakegaba/Documents/red-cup/ParseStarterProject/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.9.1-a5c8ee95e6a8f410cba2fcdb370b8aa17dfae417.jar
+/Users/jakegaba/Documents/red-cup/ParseStarterProject/build/intermediates/pre-dexed/debug/Parse-1.9.1-c15d316cd482e856489894506aabfe5eb34fa25d.jar
